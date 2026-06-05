@@ -30,3 +30,7 @@ Thumbs.db
 # Database files
 mongodb_data/
 D:/mongodb_data/
+
+# Local run script
+run.bat
+
